@@ -1,1 +1,1 @@
-Skillspire methods and gitn assignment
+Skillspire methods and git assignment
